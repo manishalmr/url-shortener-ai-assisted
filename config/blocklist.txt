@@ -1,0 +1,5 @@
+# Example domain blocklist for the URL shortener.
+# One domain per line (case-insensitive, matches domain and subdomains).
+# This is a placeholder list for demonstration purposes only.
+malware-example.test
+phishing-example.test

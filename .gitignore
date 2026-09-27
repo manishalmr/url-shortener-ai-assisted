@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+data/*.db
+data/*.db-journal
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Personal interview-prep notes - never intended for the public repo
+docs/interview-cheat-sheet.md
+
+# Separate, independent project (its own repo) - the Agentic-track PoC.
+# Intentionally excluded so it never mixes into this (AI-Assisted) submission.
+agentic-orchestrator-poc/

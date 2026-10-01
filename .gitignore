@@ -16,5 +16,5 @@ data/*.db-journal
 .idea/
 .vscode/
 
-# Separate, independent project (its own repo) - the Agentic-track PoC.
-agentic-orchestrator-poc/
+# Personal interview-prep notes - never intended for the public repo
+docs/interview-cheat-sheet.md
